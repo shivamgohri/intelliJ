@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160791402712",
+    "firebase_url": "https://smart-agriculture-deloitte.firebaseio.com",
+    "project_id": "smart-agriculture-deloitte",
+    "storage_bucket": "smart-agriculture-deloitte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160791402712:android:45cb04adc0de1fbaa8dfad",
+        "android_client_info": {
+          "package_name": "com.example.smart_agriculture_deloitte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160791402712-n0raoh6thu9f9nl71q1nompuue7h2nu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJLczKh4y1Jy36_T0FUg_NGVZwYLrZH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160791402712-n0raoh6thu9f9nl71q1nompuue7h2nu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

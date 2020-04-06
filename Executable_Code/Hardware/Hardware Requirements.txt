@@ -1,0 +1,9 @@
+HARDWARE REQUIREMENTS:
+
+1) ESP8266 WiFi Module
+2) ArduCAM mini Camera Module
+3) MQ-135 
+4) DH11
+5) Soil-pH Sensor
+6) Soil-Moisture Sensor
+

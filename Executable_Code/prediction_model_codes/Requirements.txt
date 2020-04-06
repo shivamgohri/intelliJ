@@ -1,0 +1,17 @@
+REQUIREMENTS:
+
+	GET ALL CODES AT https://bit.ly/intelliJ_codes
+
+1) Jupyter Notebook
+	*refer Installation Guide
+
+2) Camera Image Dataset
+	*Go to https://bit.ly/intelliJ_dataset to get Image Dataset.
+
+3) Libraries and Frameworks
+	*Go to terminal 
+	*write "pip install <libraries or frameworks>
+	*then run these codes using terminal command
+	* (./weed_detection_code.ipynb)
+	* (./pest_detection_code.ipynb)
+	* (./disease_detection_code.ipynb)

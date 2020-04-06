@@ -1,0 +1,9 @@
+CONNECTIONS:
+
+DH11 Digital Pin --------------> ESP Digital Pin 16
+
+Soil-Moisture Analog Pin ------> ESP Analog Pin A0
+
+Soil-pH Analog Pin ------------> ESP Pin 14
+
+MQ-135 Analog Pin -------------> ESP Pin 12

@@ -1,0 +1,7 @@
+PROCESS:
+
+1) Download 'app-debug.apk' file.
+2) Install the application.
+3) Refer to the Application Go-Through Guidebook for proper functioning of the application.
+
+	Link: https://bit.ly/intelliJ_guides	
